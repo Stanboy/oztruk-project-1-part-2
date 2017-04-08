@@ -1,0 +1,5 @@
+C:\Users\Zachary\Desktop\embedded\Ozturk Lab - 5 - Rev 1\Design02\BLE_Temperature_Measurement01.cydsn\BLE_Temperature_Measurement01.cyprj|bf9eaf3d-8e83-4a4d-a688-4db2bba1a61b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|5126f5a7-88fd-4bb2-804d-b03dbfabc37c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|726ba2a1-1769-43b0-8ce1-33d2ce3d2d8e
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bc98e2d0-0818-4f95-8b28-95d49b29c41c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e900f3d1-4fdc-48af-a6be-9cdf65e392c9
